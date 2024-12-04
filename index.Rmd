@@ -12,7 +12,7 @@ output:
 
 With the power of rupert, we will get an A+ on this final. 
 
-![](images/rupert.png)
+![](images/rupert.jpg)
 
 
 
@@ -25,10 +25,6 @@ With the power of rupert, we will get an A+ on this final.
 Let's link to where we obtained our raw data from.
 
 [PM2.5 data](https://www.kaggle.com/datasets/sahityasetu/new-york-city-air-quality?resource=download. )
-
-## Visualizations 
-
-[Visualizations](Visualizations.html)
 
 ## To make website prettier, reference this 
 

@@ -1,5 +1,5 @@
 ---
-title: "Visualizations"
+title: "Data Preparation"
 author: Shayne Estill (ske2118) , WooJin Shin (ws2721), Naomi Simon-Kumar (ns3782), Serena Ting (sjt2164)
 output: 
   html_document:
@@ -8,7 +8,7 @@ output:
     theme: cerulean
 ---
 
-# Visualizations 
+# Data Preparation
 
 
 
